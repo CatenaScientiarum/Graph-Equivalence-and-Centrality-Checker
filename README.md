@@ -39,3 +39,4 @@ The graphs will be displayed in the corresponding fields before and after removi
 
 Results:
 After processing, the program will show the results of the graph equivalence and the number of central vertices in each of them through a pop-up window.
+![GraphProject_JWOxhAFIMo](https://github.com/user-attachments/assets/1a73b395-9129-4a42-81bc-9c5a4ab652e0)
